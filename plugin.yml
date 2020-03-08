@@ -1,0 +1,11 @@
+name: Heal
+main: BeastAwokenYT\Heal
+api: [3.8.1]
+version: 1.0
+author: BeastAwokenYT
+commands:
+  heal:
+    description: Heal Yourself
+permissions:
+  heal.kmt:
+    default: op
